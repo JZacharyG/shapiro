@@ -1,0 +1,82 @@
+{
+.appVersion = "3260";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Italic;
+tag = ital;
+}
+);
+customParameters = (
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
+}
+);
+date = "2024-09-08 06:22:50 +0000";
+familyName = Shapiro;
+fontMaster = (
+{
+axesValues = (
+0,
+0
+);
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 900;
+},
+{
+over = 16;
+pos = 800;
+},
+{
+over = 16;
+pos = 450;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -600;
+},
+{
+}
+);
+name = Regular;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
