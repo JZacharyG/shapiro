@@ -2,6 +2,10 @@
 glyphname = O;
 layers = (
 {
+backgroundImage = {
+imagePath = "img/roman/roman-upper-case.png";
+scale = (16.48,16.48);
+};
 layerId = m01;
 width = 600;
 }
