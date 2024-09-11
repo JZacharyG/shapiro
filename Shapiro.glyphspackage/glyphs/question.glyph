@@ -3,10 +3,55 @@ glyphname = question;
 layers = (
 {
 backgroundImage = {
+crop = (1165.896,323.555,33.622,84.055);
 imagePath = "img/roman/roman-symbols.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-20806,-6374);
+scale = (17.8455,17.8455);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(128,626,l),
+(113,755,o),
+(218,846,o),
+(329,846,cs),
+(444,846,o),
+(499,751,o),
+(499,663,cs),
+(499,479,o),
+(255,400,o),
+(255,245,cs),
+(255,209,o),
+(268,182,o),
+(282,167,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(264,-118,l),
+(264,-45,o),
+(215,-124,o),
+(253,-142,cs),
+(286,-157,o),
+(312,-98,o),
+(276,-66,cs)
+);
+}
+);
 width = 600;
 }
 );
