@@ -3,7 +3,10 @@ glyphname = semicolon;
 layers = (
 {
 backgroundImage = {
+crop = (1290.17,137.925,36.408,91.019);
 imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-21262,-2873);
 scale = (16.48,16.48);
 };
 layerId = m01;

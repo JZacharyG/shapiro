@@ -3,11 +3,14 @@ glyphname = emdash;
 layers = (
 {
 backgroundImage = {
+crop = (1180.461,515.959,109.223,91.019);
 imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-19454,-9103);
 scale = (16.48,16.48);
 };
 layerId = m01;
-width = 600;
+width = 1800;
 }
 );
 unicode = 8212;

@@ -3,11 +3,14 @@ glyphname = plus;
 layers = (
 {
 backgroundImage = {
+crop = (483.799,283.01,42.476,91.019);
 imagePath = "img/roman/roman-numbers.png";
+locked = 1;
+pos = (-7973,-5264);
 scale = (16.48,16.48);
 };
 layerId = m01;
-width = 600;
+width = 700;
 }
 );
 unicode = 43;

@@ -3,11 +3,14 @@ glyphname = percent;
 layers = (
 {
 backgroundImage = {
+crop = (713.914,324.187,45.278,84.895);
 imagePath = "img/roman/roman-symbols.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-12614,-6328);
+scale = (17.6688,17.6688);
 };
 layerId = m01;
-width = 600;
+width = 800;
 }
 );
 unicode = 37;

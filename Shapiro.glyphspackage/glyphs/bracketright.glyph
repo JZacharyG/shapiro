@@ -3,7 +3,10 @@ glyphname = bracketright;
 layers = (
 {
 backgroundImage = {
+crop = (1415.534,318.993,36.408,91.019);
 imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-23238,-5857);
 scale = (16.48,16.48);
 };
 layerId = m01;

@@ -3,11 +3,14 @@ glyphname = dollar;
 layers = (
 {
 backgroundImage = {
+crop = (749.939,418.447,42.476,91.019);
 imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-12359,-7496);
 scale = (16.48,16.48);
 };
 layerId = m01;
-width = 600;
+width = 700;
 }
 );
 unicode = 36;

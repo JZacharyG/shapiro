@@ -3,7 +3,10 @@ glyphname = slash;
 layers = (
 {
 backgroundImage = {
+crop = (1308.252,522.451,39.442,91.019);
 imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-21560,-9110);
 scale = (16.48,16.48);
 };
 layerId = m01;
