@@ -3,10 +3,35 @@ glyphname = zero;
 layers = (
 {
 backgroundImage = {
+crop = (31.189,0.182,36.408,91.019);
 imagePath = "img/roman/roman-numbers.png";
+locked = 1;
+pos = (-514,-603);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(165,808,o),
+(85,599,o),
+(85,442,cs),
+(85,332,o),
+(125,94,o),
+(286,48,cs),
+(444,3,o),
+(519,204,o),
+(519,364,cs),
+(519,450,o),
+(506,744,o),
+(329,777,cs)
+);
+}
+);
 width = 600;
 }
 );
