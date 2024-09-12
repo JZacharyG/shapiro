@@ -3,11 +3,36 @@ glyphname = o;
 layers = (
 {
 backgroundImage = {
+crop = (252.913,1229.976,30.34,91.019);
 imagePath = "img/roman/roman-lower-case.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-4725,-23794);
+scale = (18.7558,18.7558);
 };
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(340,-11,o),
+(456,103,o),
+(456,255,cs),
+(456,386,o),
+(370,459,o),
+(302,459,cs),
+(207,459,o),
+(65,326,o),
+(65,171,cs),
+(65,43,o),
+(157,-11,o),
+(232,-11,cs)
+);
+}
+);
+width = 521;
 }
 );
 unicode = 111;
