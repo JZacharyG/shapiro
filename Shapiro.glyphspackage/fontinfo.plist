@@ -77,6 +77,12 @@ type = "italic angle";
 }
 );
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+m01 = {
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }
