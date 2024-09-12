@@ -3,6 +3,22 @@ glyphname = backslash;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(14,916,l),
+(202,552,o),
+(364,163,o),
+(585,-210,c)
+);
+}
+);
 width = 600;
 }
 );
