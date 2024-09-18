@@ -3,10 +3,50 @@ glyphname = A;
 layers = (
 {
 backgroundImage = {
+crop = (129.49,741.141,36.408,91.019);
 imagePath = "img/roman/roman-upper-case.png";
+locked = 1;
+pos = (-2134,-12814);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(95,52,l),
+(180,279,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(450,273,l),
+(512,51,l)
+);
+},
+{
+attr = {
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(333,688,l),
+(175,269,l),
+(452,266,l)
+);
+}
+);
 width = 600;
 }
 );
