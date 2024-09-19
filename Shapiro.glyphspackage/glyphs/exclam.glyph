@@ -3,11 +3,47 @@ glyphname = exclam;
 layers = (
 {
 backgroundImage = {
+crop = (1204.847,324.635,11.068,83.013);
 imagePath = "img/roman/roman-symbols.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-21771,-6466);
+scale = (18.0695,18.0695);
 };
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(104,-121,l),
+(70,-62,o),
+(58,-144,o),
+(104,-144,cs),
+(144,-144,o),
+(143,-87,o),
+(92,-75,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(105,840,l),
+(103,693,o),
+(103,273,o),
+(98,166,cs)
+);
+}
+);
+width = 200;
 }
 );
 unicode = 33;
