@@ -13,6 +13,8 @@ layerId = m01;
 shapes = (
 {
 attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
 strokeWidth = 50;
 };
 closed = 0;
@@ -23,16 +25,18 @@ nodes = (
 },
 {
 attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
 strokeWidth = 50;
 };
 closed = 0;
 nodes = (
-(296,786,l),
-(286,172,o),
-(255,36,o),
-(346,37,cs),
-(411,38,o),
-(429,64,o),
+(296,757,l),
+(286,143,o),
+(272,37,o),
+(344,37,cs),
+(410,37,o),
+(426,68,o),
 (449,100,cs)
 );
 }
