@@ -3,10 +3,29 @@ glyphname = parenleft;
 layers = (
 {
 backgroundImage = {
+crop = (130.765,225.789,36.408,91.019);
 imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-2155,-4321);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(431,820,l),
+(107,671,o),
+(82,21,o),
+(404,-130,cs)
+);
+}
+);
 width = 600;
 }
 );
