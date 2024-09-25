@@ -3,10 +3,31 @@ glyphname = comma;
 layers = (
 {
 backgroundImage = {
-imagePath = "img/roman/roman-symbols.png";
-scale = (16.48,16.48);
+crop = (315,706.267,40,100);
+imagePath = "img/roman/roman-lower-case.png";
+pos = (-4725,-11194);
+scale = (15,15);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(284,138,l),
+(315,113,o),
+(328,78,o),
+(317,40,cs),
+(310,14,o),
+(297,-14,o),
+(241,-76,cs)
+);
+}
+);
 width = 600;
 }
 );

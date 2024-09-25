@@ -3,10 +3,46 @@ glyphname = four;
 layers = (
 {
 backgroundImage = {
+crop = (190.129,87.985,40.453,101.133);
 imagePath = "img/roman/roman-numbers.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-2810,-1690);
+scale = (14.832,14.832);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 2;
+lineCapStart = 2;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(417,5,l),
+(422,726,ls),
+(422,760,o),
+(411,755,o),
+(390,727,cs),
+(351,675,o),
+(278,532,o),
+(228,469,cs),
+(93,300,ls),
+(81,283,o),
+(102,299,o),
+(133,304,cs),
+(165,310,o),
+(223,319,o),
+(247,321,cs),
+(305,325,o),
+(350,325,o),
+(382,321,cs),
+(478,309,o),
+(543,335,o),
+(564,344,c)
+);
+}
+);
 width = 600;
 }
 );
