@@ -1,13 +1,17 @@
 {
-glyphname = comma;
+glyphname = c.001;
 layers = (
 {
 backgroundImage = {
-crop = (315,706.267,40,100);
 imagePath = "img/roman/roman-lower-case.png";
-pos = (-4725,-11194);
-scale = (15,15);
+pos = (-19972,-16184);
+scale = (16.48,16.48);
 };
+guides = (
+{
+pos = (-19972,100);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -18,18 +22,17 @@ strokeWidth = 50;
 };
 closed = 0;
 nodes = (
-(284,138,l),
-(315,113,o),
-(328,78,o),
-(317,40,cs),
-(310,14,o),
-(297,-14,o),
-(241,-76,cs)
+(809,347,l),
+(808,433,o),
+(519,513,o),
+(519,225,cs),
+(519,129,o),
+(670,-72,o),
+(900,57,cs)
 );
 }
 );
 width = 600;
 }
 );
-unicode = 44;
 }
