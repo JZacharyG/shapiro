@@ -3,7 +3,23 @@ glyphname = endash;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(75,310,l),
+(157,324,o),
+(398,326,o),
+(475,322,cs)
+);
+}
+);
+width = 550;
 }
 );
 unicode = 8211;
