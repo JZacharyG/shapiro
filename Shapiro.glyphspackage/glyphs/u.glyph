@@ -6,7 +6,7 @@ backgroundImage = {
 crop = (68.951,2.346,37.037,92.593);
 imagePath = "img/roman/roman-lower-case.png";
 locked = 1;
-pos = (-1139,-638);
+pos = (-1169,-638);
 scale = (16.2,16.2);
 };
 layerId = m01;
@@ -19,13 +19,13 @@ strokeWidth = 50;
 };
 closed = 0;
 nodes = (
-(104,450,l),
-(104,391,o),
-(58,84,o),
-(180,34,cs),
-(287,-10,o),
-(427,196,o),
-(440,211,c)
+(74,450,l),
+(74,391,o),
+(28,84,o),
+(150,34,cs),
+(257,-10,o),
+(397,196,o),
+(410,211,c)
 );
 },
 {
@@ -36,17 +36,17 @@ strokeWidth = 50;
 };
 closed = 0;
 nodes = (
-(492,34,l),
-(468,100,o),
-(424,231,o),
-(427,456,c)
+(462,34,l),
+(438,100,o),
+(394,231,o),
+(397,456,c)
 );
 }
 );
-width = 517;
+width = 507;
 }
 );
-metricLeft = "=n";
-metricRight = "=n-50";
+metricLeft = "=n-30";
+metricRight = "=n-30";
 unicode = 117;
 }
