@@ -12,3 +12,55 @@ width = 600;
 );
 unicode = 98;
 }
+{
+glyphname = b;
+layers = (
+{
+backgroundImage = {
+crop = (486.728,204.281,36.697,91.743);
+imagePath = "img/roman/roman-lower-case.png";
+locked = 1;
+pos = (-7958,-3940);
+scale = (16.35,16.35);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(157,693,l),
+(166,267,l)
+);
+},
+{
+attr = {
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(166,67,ls),
+(166,53,o),
+(219,24,o),
+(287,21,cs),
+(445,13,o),
+(486,199,o),
+(457,301,cs),
+(442,354,o),
+(399,418,o),
+(328,414,cs),
+(256,410,o),
+(166,337,o),
+(166,267,cs)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 98;
+}
