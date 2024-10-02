@@ -3,20 +3,6 @@ glyphname = b;
 layers = (
 {
 backgroundImage = {
-imagePath = "img/roman/roman-lower-case.png";
-scale = (16.48,16.48);
-};
-layerId = m01;
-width = 600;
-}
-);
-unicode = 98;
-}
-{
-glyphname = b;
-layers = (
-{
-backgroundImage = {
 crop = (486.728,204.281,36.697,91.743);
 imagePath = "img/roman/roman-lower-case.png";
 locked = 1;
