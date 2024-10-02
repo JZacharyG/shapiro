@@ -4,9 +4,44 @@ layers = (
 {
 backgroundImage = {
 imagePath = "img/roman/roman-numbers.png";
+locked = 1;
+pos = (-5365,-548);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(40,852,l),
+(189,822,o),
+(368,878,o),
+(451,852,cs),
+(570,815,o),
+(308,712,o),
+(282,14,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(133,512,l),
+(273,535,o),
+(414,515,o),
+(554,517,c)
+);
+}
+);
 width = 600;
 }
 );
