@@ -3,10 +3,35 @@ glyphname = V;
 layers = (
 {
 backgroundImage = {
+crop = (153.641,612.621,36.408,91.019);
 imagePath = "img/roman/roman-upper-case.png";
+locked = 1;
+pos = (-2532,-10696);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(75,706,l),
+(172,496,o),
+(236,281,o),
+(301,75,cs),
+(304,66,o),
+(311,66,o),
+(314,74,cs),
+(387,275,o),
+(518,581,o),
+(571,727,c)
+);
+}
+);
 width = 600;
 }
 );
