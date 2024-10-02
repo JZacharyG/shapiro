@@ -3,6 +3,22 @@ glyphname = underscore;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(97,-83,l),
+(238,-83,o),
+(240,-83,o),
+(500,-83,cs)
+);
+}
+);
 width = 600;
 }
 );
