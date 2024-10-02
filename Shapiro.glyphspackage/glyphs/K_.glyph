@@ -4,9 +4,58 @@ layers = (
 {
 backgroundImage = {
 imagePath = "img/roman/roman-upper-case.png";
+locked = 1;
+pos = (-8123,-24900);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(84,904,l),
+(72,754,o),
+(62,605,o),
+(55,475,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(72,21,l),
+(44,35,o),
+(42,215,o),
+(54,460,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(550,900,l),
+(511,866,o),
+(275,594,o),
+(55,475,c),
+(445,674,o),
+(468,-330,o),
+(866,-294,cs)
+);
+}
+);
 width = 600;
 }
 );
