@@ -10,6 +10,64 @@ pos = (-772,-11248);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(409,885,l),
+(363,641,o),
+(227,171,o),
+(206,112,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(666,882,l),
+(601,678,o),
+(477,161,o),
+(434,-40,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(112,516,l),
+(314,529,o),
+(488,497,o),
+(718,508,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(72,274,l),
+(263,262,o),
+(535,233,o),
+(668,253,c)
+);
+}
+);
 width = 800;
 }
 );

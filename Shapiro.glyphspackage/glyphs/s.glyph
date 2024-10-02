@@ -7,6 +7,38 @@ imagePath = "img/roman/roman-lower-case.png";
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(881,355,l),
+(935,446,o),
+(527,450,o),
+(573,293,c),
+(600,173,o),
+(1031,166,o),
+(872,-12,c),
+(765,-102,o),
+(527,21,o),
+(566,123,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(1083,193,l)
+);
+}
+);
 width = 600;
 }
 );
