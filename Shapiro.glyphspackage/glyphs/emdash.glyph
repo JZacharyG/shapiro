@@ -6,11 +6,27 @@ backgroundImage = {
 crop = (1180.461,515.959,109.223,91.019);
 imagePath = "img/roman/roman-symbols.png";
 locked = 1;
-pos = (-19454,-9103);
+pos = (-19444,-9103);
 scale = (16.48,16.48);
 };
 layerId = m01;
-width = 1800;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(75,301,l),
+(376,324,o),
+(1448,326,o),
+(1731,311,cs)
+);
+}
+);
+width = 1806;
 }
 );
 unicode = 8212;
