@@ -55,7 +55,7 @@ pos = -600;
 );
 name = Regular;
 userData = {
-GSCornerRadius = 15;
+GSCornerRadius = 10;
 };
 }
 );
