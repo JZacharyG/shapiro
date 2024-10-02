@@ -10,6 +10,22 @@ pos = (-21560,-9110);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(619,916,l),
+(431,552,o),
+(269,163,o),
+(48,-210,c)
+);
+}
+);
 width = 600;
 }
 );

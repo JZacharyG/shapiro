@@ -54,6 +54,9 @@ pos = -600;
 }
 );
 name = Regular;
+userData = {
+GSCornerRadius = 10;
+};
 }
 );
 metrics = (
@@ -76,7 +79,16 @@ type = descender;
 type = "italic angle";
 }
 );
+settings = {
+keepAlternatesTogether = 1;
+};
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+m01 = {
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }

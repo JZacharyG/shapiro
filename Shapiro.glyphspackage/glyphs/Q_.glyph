@@ -1,13 +1,60 @@
 {
 glyphname = Q;
+kernLeft = O;
+kernRight = O;
 layers = (
 {
 backgroundImage = {
+crop = (278.314,618.423,45.319,79.975);
 imagePath = "img/roman/roman-upper-case.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-5220,-12199);
+scale = (18.7558,18.7558);
 };
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(545,16,o),
+(691,159,o),
+(691,415,cs),
+(691,649,o),
+(565,832,o),
+(407,832,cs),
+(229,832,o),
+(63,589,o),
+(63,351,cs),
+(63,139,o),
+(182,16,o),
+(356,16,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(45,-114,l),
+(77,-82,o),
+(114,-63,o),
+(154,-64,cs),
+(246,-66,o),
+(302,-170,o),
+(503,-171,cs),
+(608,-172,o),
+(700,-151,o),
+(802,-84,cs)
+);
+}
+);
+width = 850;
 }
 );
 unicode = 81;
