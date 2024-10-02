@@ -3,10 +3,49 @@ glyphname = F;
 layers = (
 {
 backgroundImage = {
+crop = (884.527,747.633,36.408,91.019);
 imagePath = "img/roman/roman-upper-case.png";
+locked = 1;
+pos = (-14577,-12921);
 scale = (16.48,16.48);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(100,2,l),
+(125,177,o),
+(125,224,o),
+(138,415,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(512,734,ls),
+(305,734,o),
+(147,774,o),
+(142,695,cs),
+(136,598,o),
+(138,606,o),
+(138,415,c),
+(298,419,o),
+(358,425,o),
+(456,425,c)
+);
+}
+);
 width = 600;
 }
 );
