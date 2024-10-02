@@ -79,6 +79,9 @@ type = descender;
 type = "italic angle";
 }
 );
+settings = {
+keepAlternatesTogether = 1;
+};
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
