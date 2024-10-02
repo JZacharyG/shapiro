@@ -12,10 +12,32 @@ scale = (17,17);
 layerId = m01;
 shapes = (
 {
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
 closed = 0;
 nodes = (
-(149,438,l),
-(443,440,l)
+(126,447,l),
+(460,445,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(296,757,l),
+(286,143,o),
+(272,37,o),
+(344,37,cs),
+(410,37,o),
+(426,68,o),
+(449,100,cs)
 );
 }
 );
