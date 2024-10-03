@@ -50,8 +50,9 @@ nodes = (
 );
 }
 );
-width = 447;
+width = 357;
 }
 );
+metricRight = "=r-120";
 unicode = 102;
 }
