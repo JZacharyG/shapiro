@@ -1,0 +1,49 @@
+{
+glyphname = t.001;
+layers = (
+{
+backgroundImage = {
+crop = (809.161,575.091,26.599,83.122);
+imagePath = "img/roman/roman-lower-case.png";
+locked = 1;
+pos = (-14582,-10978);
+scale = (18.0458,18.0458);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(63,442,l),
+(183,436,o),
+(303,440,o),
+(425,459,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(179,829,l),
+(228,435,o),
+(216,250,o),
+(231,148,cs),
+(251,12,o),
+(333,-77,o),
+(460,23,cs)
+);
+}
+);
+width = 480;
+}
+);
+}
