@@ -1,12 +1,12 @@
 {
-glyphname = asciitilde;
+glyphname = asciitilde.large;
 layers = (
 {
 backgroundImage = {
 crop = (801.774,326.116,59.235,80.775);
 imagePath = "img/roman/roman-symbols.png";
 locked = 1;
-pos = (-15016,-6696);
+pos = (-14889,-6656);
 scale = (18.5701,18.5701);
 };
 layerId = m01;
@@ -19,21 +19,20 @@ strokeWidth = 50;
 };
 closed = 0;
 nodes = (
-(75,315,l),
-(118,376,o),
-(175,412,o),
-(251,412,cs),
-(389,412,o),
-(434,295,o),
-(601,295,cs),
-(676,295,o),
-(725,318,o),
-(757,359,cs)
+(60,337,l),
+(99,426,o),
+(183,480,o),
+(299,480,cs),
+(499,480,o),
+(566,307,o),
+(813,307,cs),
+(923,307,o),
+(996,341,o),
+(1043,401,cs)
 );
 }
 );
-width = 832;
+width = 1100;
 }
 );
-unicode = 126;
 }
