@@ -3,7 +3,6 @@ glyphname = b;
 layers = (
 {
 backgroundImage = {
-<<<<<<< Updated upstream
 crop = (491.521,208.944,27.171,81.513);
 imagePath = "img/roman/roman-lower-case.png";
 locked = 1;
@@ -55,14 +54,5 @@ width = 485;
 );
 metricLeft = "=n-15";
 metricRight = "=o";
-=======
-imagePath = "img/roman/roman-lower-case.png";
-scale = (16.48,16.48);
-};
-layerId = m01;
-width = 600;
-}
-);
->>>>>>> Stashed changes
 unicode = 98;
 }
