@@ -1,0 +1,42 @@
+{
+glyphname = eight.001;
+layers = (
+{
+backgroundImage = {
+imagePath = "img/roman/roman-numbers.png";
+pos = (-6116,-658);
+scale = (16.48,16.48);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(152,781,o),
+(152,657,o),
+(152,634,cs),
+(152,396,o),
+(494,523,o),
+(491,234,cs),
+(489,65,o),
+(310,26,o),
+(254,28,cs),
+(186,30,o),
+(86,65,o),
+(86,203,cs),
+(86,402,o),
+(477,484,o),
+(477,664,cs),
+(477,730,o),
+(425,776,o),
+(318,778,cs)
+);
+}
+);
+width = 600;
+}
+);
+}
