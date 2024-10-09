@@ -4,7 +4,7 @@ layers = (
 {
 backgroundImage = {
 imagePath = "img/roman/roman-symbols.png";
-pos = (-3031,-1275);
+pos = (-3013,-1275);
 scale = (16.48,16.48);
 };
 layerId = m01;
@@ -17,17 +17,17 @@ strokeWidth = 50;
 };
 closed = 0;
 nodes = (
-(82,36,l),
-(38,85,o),
-(51,4,o),
-(89,13,cs),
-(121,22,o),
-(104,77,o),
-(60,77,cs)
+(100,36,l),
+(56,85,o),
+(69,4,o),
+(107,13,cs),
+(139,22,o),
+(122,77,o),
+(78,77,cs)
 );
 }
 );
-width = 150;
+width = 198;
 }
 );
 unicode = 46;

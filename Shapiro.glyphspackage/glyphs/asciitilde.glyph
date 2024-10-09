@@ -3,11 +3,36 @@ glyphname = asciitilde;
 layers = (
 {
 backgroundImage = {
+crop = (801.774,326.116,59.235,80.775);
 imagePath = "img/roman/roman-symbols.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-15016,-6696);
+scale = (18.5701,18.5701);
 };
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(75,315,l),
+(118,376,o),
+(175,412,o),
+(251,412,cs),
+(389,412,o),
+(434,295,o),
+(601,295,cs),
+(676,295,o),
+(725,318,o),
+(757,359,cs)
+);
+}
+);
+width = 832;
 }
 );
 unicode = 126;

@@ -1,0 +1,38 @@
+{
+glyphname = asciitilde.large;
+layers = (
+{
+backgroundImage = {
+crop = (801.774,326.116,59.235,80.775);
+imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-14889,-6656);
+scale = (18.5701,18.5701);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(60,337,l),
+(99,426,o),
+(183,480,o),
+(299,480,cs),
+(499,480,o),
+(566,307,o),
+(813,307,cs),
+(923,307,o),
+(996,341,o),
+(1043,401,cs)
+);
+}
+);
+width = 1100;
+}
+);
+}

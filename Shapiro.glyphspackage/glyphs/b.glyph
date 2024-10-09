@@ -3,6 +3,59 @@ glyphname = b;
 layers = (
 {
 backgroundImage = {
+<<<<<<< Updated upstream
+crop = (491.521,208.944,27.171,81.513);
+imagePath = "img/roman/roman-lower-case.png";
+locked = 1;
+pos = (-9050,-4445);
+scale = (18.4021,18.4021);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(80,770,l),
+(99,539,o),
+(95,450,o),
+(98,290,c)
+);
+},
+{
+attr = {
+strokeWidth = 50;
+};
+closed = 1;
+nodes = (
+(94,217,o),
+(95,164,o),
+(95,89,cs),
+(95,16,o),
+(155,-9,o),
+(219,-9,cs),
+(361,-9,o),
+(430,116,o),
+(430,238,cs),
+(430,323,o),
+(396,456,o),
+(291,456,cs),
+(206,456,o),
+(102,369,o),
+(98,290,cs)
+);
+}
+);
+width = 485;
+}
+);
+metricLeft = "=n-15";
+metricRight = "=o";
+=======
 imagePath = "img/roman/roman-lower-case.png";
 scale = (16.48,16.48);
 };
@@ -10,5 +63,6 @@ layerId = m01;
 width = 600;
 }
 );
+>>>>>>> Stashed changes
 unicode = 98;
 }

@@ -1,0 +1,60 @@
+{
+glyphname = asterisk.001;
+layers = (
+{
+backgroundImage = {
+crop = (298.79,128.928,34.987,87.468);
+imagePath = "img/roman/roman-symbols.png";
+locked = 1;
+pos = (-5124,-2811);
+scale = (17.1492,17.1492);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(302,838,l),
+(301,721,o),
+(302,604,o),
+(306,487,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(434,745,l),
+(328,697,o),
+(240,641,o),
+(153,573,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(461,583,l),
+(357,655,o),
+(243,707,o),
+(127,752,c)
+);
+}
+);
+width = 600;
+}
+);
+}
