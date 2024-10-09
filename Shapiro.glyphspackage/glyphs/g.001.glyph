@@ -1,0 +1,74 @@
+{
+glyphname = g.001;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+backgroundImage = {
+crop = (596.712,1089.278,33.764,80.775);
+imagePath = "img/roman/roman-lower-case.png";
+locked = 1;
+pos = (-11156,-20828);
+scale = (18.5701,18.5701);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(375,394,l),
+(318,414,o),
+(279,419,o),
+(252,419,cs),
+(133,419,o),
+(55,325,o),
+(55,227,cs),
+(55,115,o),
+(159,27,o),
+(262,85,cs),
+(314,114,o),
+(350,172,o),
+(350,243,cs),
+(350,343,o),
+(279,401,o),
+(252,419,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(262,85,l),
+(212,54,o),
+(254,8,o),
+(289,-19,cs),
+(355,-69,o),
+(503,-185,o),
+(503,-349,cs),
+(503,-474,o),
+(415,-565,o),
+(257,-565,cs),
+(61,-565,o),
+(35,-422,o),
+(35,-344,cs),
+(35,-187,o),
+(141,-21,o),
+(287,-21,c)
+);
+}
+);
+width = 408;
+}
+);
+metricLeft = "=o-20";
+metricRight = "=o-150";
+}
