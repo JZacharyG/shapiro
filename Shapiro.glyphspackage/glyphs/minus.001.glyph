@@ -1,0 +1,25 @@
+{
+glyphname = minus.001;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(559,368,l),
+(414,370,o),
+(274,384,o),
+(75,354,cs)
+);
+}
+);
+width = 634;
+}
+);
+}

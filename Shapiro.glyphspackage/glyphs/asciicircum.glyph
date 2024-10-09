@@ -3,6 +3,24 @@ glyphname = asciicircum;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(136,389,l),
+(286,628,ls),
+(290,635,o),
+(296,635,o),
+(300,629,cs),
+(464,396,l)
+);
+}
+);
 width = 600;
 }
 );

@@ -11,6 +11,29 @@ name = Italic;
 tag = ital;
 }
 );
+classes = (
+{
+code = "a a.002 b.001 c d.001 e.001 f g g.002 h j k.001 l m.001 n o.001 p r s t.001 u w y ";
+name = Trigger1;
+},
+{
+code = "a.001 b c.001 d e f.001 g.001 i k m n.001 o q r.001 s.001 t v x z ";
+name = Trigger2;
+},
+{
+automatic = 1;
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a a.001 a.002 b b.001 c c.001 d d.001 e e.001 f f.001 g g.001 g.002 h i j k k.001 l m m.001 n n.001 o o.001 p q r r.001 s s.001 t t.001 u v w x y z zero one two three four five six seven eight nine space period comma colon semicolon exclam question asterisk asterisk.001 numbersign slash backslash hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle hedgehog at ampersand ampersand.001 ampersand.002 bar dollar plus minus minus.001 equal notequal greater less greaterequal lessequal plusminus asciitilde asciitilde.large asciicircum percent";
+name = All;
+},
+{
+code = "a b c d e f g h i j k l m n o p q r s t u v w x y z ";
+name = Class1;
+},
+{
+code = "a.002 b.001 c.001 d.001 e.001 f.001 g.002 h i j k.001 l m.001 n.001 o.001 p q r.001 s.001 t.001 u v w x y z ";
+name = Class2;
+}
+);
 customParameters = (
 {
 name = "Write lastChange";
@@ -23,6 +46,76 @@ value = 0;
 );
 date = "2024-09-08 06:22:50 +0000";
 familyName = Shapiro;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature calt;
+feature rclt;
+feature ss01;
+feature ss02;
+";
+tag = aalt;
+},
+{
+code = "lookup random4 {
+	sub @Trigger1 @All @All @All @All [@Class1 @Class2]' by [@Class2 @Class1];
+} random4;
+
+lookup random3 {
+	sub @Trigger1 @All @All @All [@Class1 @Class2]' by [@Class2 @Class1];
+} random3;
+
+lookup random2 {
+	sub @Trigger2 @All @All [@Class1 @Class2]' by [@Class2 @Class1];
+} random2;
+
+lookup random1 {
+	sub @Trigger2 @All [@Class1 @Class2]' by [@Class2 @Class1];
+} random1;
+
+lookup random0 {
+	sub @Trigger1 [@Class1 @Class2]' by [@Class2 @Class1];
+} random0;
+";
+tag = calt;
+},
+{
+code = "lookup overlaps {
+	sub f' [b b.001 h k k.001 l ] by f.001 f;
+} overlaps;
+";
+tag = rclt;
+},
+{
+code = "sub @Class2 by @Class1;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+},
+{
+code = "sub @Class1 by @Class2;";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
+}
+);
 fontMaster = (
 {
 axesValues = (
