@@ -3,7 +3,38 @@ glyphname = greaterequal;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(82,398,l),
+(353,322,o),
+(489,343,o),
+(489,289,cs),
+(489,236,o),
+(321,254,o),
+(109,162,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(527,68,l),
+(97,68,l)
+);
+}
+);
+width = 582;
 }
 );
 unicode = 8805;
