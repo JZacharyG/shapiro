@@ -89,7 +89,7 @@ tag = calt;
 },
 {
 code = "lookup overlaps {
-	sub f' [b b.001 h k k.001 l ] by f.001 f;
+	sub f' [b b.001 h k k.001 l ] by f.001;
 } overlaps;
 ";
 tag = rclt;

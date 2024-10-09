@@ -3,10 +3,80 @@ glyphname = I;
 layers = (
 {
 backgroundImage = {
+crop = (493.774,1663.932,40.341,100.853);
 imagePath = "img/roman/roman-upper-case.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-7351,-25228);
+scale = (14.8732,14.8732);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(77,721,l),
+(100,732,o),
+(214,740,o),
+(293,737,cs),
+(302,737,o),
+(293,737,o),
+(315,736,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(315,736,l),
+(319,736,o),
+(362,738,o),
+(372,738,cs),
+(435,738,o),
+(515,744,o),
+(558,763,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(280,44,l),
+(282,228,o),
+(287,584,o),
+(287,596,cs),
+(288,640,o),
+(307,738,o),
+(372,738,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(28,26,l),
+(193,41,o),
+(400,56,o),
+(531,44,c)
+);
+}
+);
 width = 600;
 }
 );

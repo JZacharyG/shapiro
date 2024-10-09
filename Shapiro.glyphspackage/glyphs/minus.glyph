@@ -3,6 +3,22 @@ glyphname = minus;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(88,275,l),
+(229,281,o),
+(358,288,o),
+(484,281,c)
+);
+}
+);
 width = 600;
 }
 );
