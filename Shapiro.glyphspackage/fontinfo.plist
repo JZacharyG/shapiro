@@ -22,7 +22,7 @@ name = Trigger2;
 },
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a a.001 a.002 b b.001 c c.001 d d.001 e e.001 f f.001 g g.001 g.002 h i j k k.001 l m m.001 n n.001 o o.001 p q r r.001 s s.001 t t.001 u v w x y z zero one two three four five six seven eight nine space period comma colon semicolon exclam question asterisk asterisk.001 numbersign slash backslash hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle hedgehog at ampersand ampersand.001 ampersand.002 bar dollar plus minus minus.001 equal notequal greater less greaterequal lessequal plusminus asciitilde asciitilde.large asciicircum percent";
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a a.001 a.002 b b.001 c c.001 d d.001 e e.001 f f.001 g g.001 g.002 h h.001 i j j.001 k k.001 l m m.001 n n.001 o o.001 p q r r.001 s s.001 t t.001 u v w x y z zero one two three four five six seven eight nine eight.001 space period comma colon semicolon exclam question asterisk asterisk.001 numbersign slash backslash hyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle hedgehog at ampersand ampersand.001 ampersand.002 bar dollar plus minus minus.001 equal notequal greater less greaterequal lessequal plusminus asciitilde asciitilde.large asciicircum percent";
 name = All;
 },
 {
@@ -30,7 +30,8 @@ code = "a b c d e f g h i j k l m n o p q r s t u v w x y z ";
 name = Class1;
 },
 {
-code = "a.002 b.001 c.001 d.001 e.001 f.001 g.002 h i j k.001 l m.001 n.001 o.001 p q r.001 s.001 t.001 u v w x y z ";
+code = "a.002 b.001 c.001 d.001 e.001 f.001 g.002 h.001 i j.001 k.001 l m.001 n.001 o.001 p q r.001 s.001 t.001 u v w x y z 
+";
 name = Class2;
 }
 );
