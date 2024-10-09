@@ -3,11 +3,48 @@ glyphname = B;
 layers = (
 {
 backgroundImage = {
+crop = (49.518,1550.598,40.026,85.769);
 imagePath = "img/roman/roman-upper-case.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-866,-27718);
+scale = (17.4887,17.4887);
 };
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(71,-21,l),
+(138,333,o),
+(118,579,o),
+(118,766,cs),
+(118,795,o),
+(120,801,o),
+(161,801,cs),
+(341,801,o),
+(594,794,o),
+(594,678,cs),
+(594,600,o),
+(480,477,o),
+(225,458,cs),
+(203,456,o),
+(203,455,o),
+(225,454,cs),
+(356,447,o),
+(626,411,o),
+(626,224,cs),
+(626,40,o),
+(341,9,o),
+(115,-9,c)
+);
+}
+);
+width = 700;
 }
 );
 unicode = 66;

@@ -1,0 +1,120 @@
+{
+glyphname = k.001;
+layers = (
+{
+backgroundImage = {
+crop = (616.626,1345.146,36.408,91.019);
+imagePath = "img/roman/roman-lower-case.png";
+locked = 1;
+pos = (-11938,-26778);
+scale = (19.3241,19.3241);
+};
+layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(95,756,l),
+(96,615,o),
+(105,416,o),
+(105,240,cs),
+(105,179,o),
+(104,75,o),
+(105,0,cs)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(424,452,l),
+(329,353,o),
+(252,242,o),
+(120,242,cs),
+(113,242,o),
+(114,237,o),
+(119,237,cs),
+(328,237,o),
+(295,26,o),
+(548,-51,c)
+);
+}
+);
+width = 543;
+},
+{
+associatedMasterId = m01;
+backgroundImage = {
+crop = (616.626,1345.146,36.408,91.019);
+imagePath = "img/roman/roman-lower-case.png";
+locked = 1;
+pos = (-10166,-22768);
+scale = (16.48,16.48);
+};
+layerId = "B44A64CB-E29D-4182-95B2-3C5BBFA976AD";
+name = "Oct 4, 24, 11:17";
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(95,696,l),
+(96,576,o),
+(100,423,o),
+(104,273,c),
+(156,273,o),
+(97,273,o),
+(202,273,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(104,68,ls),
+(103,132,o),
+(103,221,o),
+(104,273,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(376,454,ls),
+(293,359,o),
+(257,330,o),
+(202,277,c),
+(284,142,o),
+(363,81,o),
+(482,25,c)
+);
+}
+);
+width = 547;
+}
+);
+metricLeft = l;
+metricRight = "=x-80";
+}

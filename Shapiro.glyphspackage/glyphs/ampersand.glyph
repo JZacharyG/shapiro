@@ -3,10 +3,110 @@ glyphname = ampersand;
 layers = (
 {
 backgroundImage = {
+crop = (52.975,223.924,52.278,94.937);
 imagePath = "img/roman/roman-symbols.png";
-scale = (16.48,16.48);
+locked = 1;
+pos = (-826,-4138);
+scale = (15.8,15.8);
 };
 layerId = m01;
+shapes = (
+{
+attr = {
+lineCapEnd = 2;
+lineCapStart = 2;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(376,606,l),
+(452,621,o),
+(484,675,o),
+(491,704,cs),
+(506,770,o),
+(435,813,o),
+(378,812,cs),
+(338,811,o),
+(289,793,o),
+(249,764,cs),
+(186,718,o),
+(163,663,o),
+(174,609,cs),
+(178,589,o),
+(187,557,o),
+(225,542,cs),
+(250,532,o),
+(274,530,o),
+(303,530,cs),
+(308,530,o),
+(310,526,o),
+(303,525,cs),
+(174,509,o),
+(85,446,o),
+(85,304,cs),
+(85,152,o),
+(200,13,o),
+(329,13,cs),
+(436,13,o),
+(539,132,o),
+(576,207,cs),
+(611,278,o),
+(606,378,o),
+(596,419,cs),
+(591,439,l)
+);
+},
+{
+attr = {
+lineCapEnd = 2;
+lineCapStart = 2;
+strokeWidth = 50;
+};
+closed = 0;
+nodes = (
+(399,370,l),
+(437,408,o),
+(495,428,o),
+(545,436,cs),
+(570,440,o),
+(602,438,o),
+(653,433,cs),
+(747,424,o),
+(770,467,o),
+(775,477,cs)
+);
+}
+);
+width = 827;
+},
+{
+associatedMasterId = m01;
+backgroundImage = {
+imagePath = "img/roman/roman-symbols.png";
+pos = (0,-600);
+};
+layerId = "E0B3EE7D-E343-495F-9C78-7BA76A21E718";
+name = "Sep 18, 24, 10:02";
+width = 600;
+},
+{
+associatedMasterId = m01;
+backgroundImage = {
+imagePath = "img/roman/roman-symbols.png";
+pos = (0,-600);
+};
+layerId = "ECA504DB-F379-4371-8DBF-91C5A98CD9D9";
+name = "Sep 18, 24, 10:02";
+width = 600;
+},
+{
+associatedMasterId = m01;
+backgroundImage = {
+imagePath = "img/roman/roman-symbols.png";
+pos = (0,-600);
+};
+layerId = "EF80495A-6527-4DBE-860F-E39D0AF12A3B";
+name = "Sep 18, 24, 10:02";
 width = 600;
 }
 );
